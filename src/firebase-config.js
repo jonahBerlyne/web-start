@@ -7,6 +7,8 @@
  * 4. Copy the config object snippet, then add it here.
  */
 
+// After installing firebase, run: " alias firebase="`npm config get prefix`/bin/firebase" " in the terminal, then run: " firebase --version " to check that it worked.
+
 // This is my config info from my firebase settings:
 const config = {
   apiKey: "AIzaSyDdlefJsqAAKGZoIr5Lv-0eFtapWPetJdo",
